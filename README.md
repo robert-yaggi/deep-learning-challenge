@@ -15,8 +15,9 @@
 
   ![Model Creation](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/c4c064fe-d7a9-439e-af6d-d1b421e4f170)
  
-  - The goal accuracy for the model was 75% which was not met by the initial model as we see an accuracy of 72.66%. 
-![Model Creation Accuracy](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/46b3fdbb-0487-4ae4-b91e-5c6c4d31d96c)
+  - The goal accuracy for the model was 75% which was not met by the initial model as we see an accuracy of 72.66%.
+    
+  ![Model Creation Accuracy](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/46b3fdbb-0487-4ae4-b91e-5c6c4d31d96c)
 
 
 

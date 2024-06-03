@@ -23,7 +23,7 @@
 
     ![Optimized Accuracy](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/762c59a9-5365-45e7-b1a9-d2c894dd7c40)
 
-  - For this particular model, the NAME variable was added back into the Feature Varialbes which included: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT. Additionally, the three hidden layers were changed to 14,7, and 1. This model also used sigmoid activation and relu activation. 
+  - For this particular model, the NAME variable was added back into the Feature Varialbes which included: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT. Additionally, the three hidden layers were changed to 14, 7, and 1. This model also used sigmoid activation and relu activation. 
 
     ![Model 2](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/79edc62d-8a81-41a0-a8a4-330eed932cac)
 

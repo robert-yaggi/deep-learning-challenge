@@ -12,7 +12,9 @@
 
   ### Compiling, Training, and Evaluating the Model
   - The model consists of three hidden layers with neuron values of 80, 30, and 1. Relu activation functions were used for creation of the model. The output layer uses a sigmoid activation function for binary classification. The structure was chosen in order to provide a balance between complexity and the potential for overfitting. 
+
 ![Model Creation](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/c4c064fe-d7a9-439e-af6d-d1b421e4f170)
+ 
   - The goal accuracy for the model was 75% which was not met by the initial model. 
 ![Model Creation Accuracy](https://github.com/robert-yaggi/deep-learning-challenge/assets/153320218/46b3fdbb-0487-4ae4-b91e-5c6c4d31d96c)
 

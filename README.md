@@ -10,4 +10,9 @@
   - Removed Variables: EIN and NAME were removed from the input data as they are identification columns and were not useful as features or targets.
   - NAME variable was added back into the model as a Feature Variable for one of the optimizations.
 
+  ### Compiling, Training, and Evaluating the Model
+
+
+## Summary
+The deep learning model achieved the desired performance of % accuracy in predicting the success of Alphabet Soup funded organizations. Multiple attempts were made in order to optimize the model through data preprocessing and neural network structure changes, leading to improvements in overall model performance. As an alternative, a Random Forest Classifier could be used for this scenario. This method has the potential to provide better accuracy and generalization while reducing the likelihood of overfitting. This alternative method may lead to better performance in predicitng the success of organizations that are funded by Alphabet Soup. 
     
